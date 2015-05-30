@@ -294,7 +294,7 @@ center;
     transform:         translateY(-10px);
 }
 
-#definiton.enjoy {
+#definiton.present .enjoy {
    -webkit-transform: translateY(10px);
     -moz-transform:    translateY(10px);
     -ms-transform:     translateY(10px);
@@ -308,7 +308,7 @@ center;
     transition-delay:         0.25s;
 }
 
-#definiton .dream {
+#definiton.present  .dream {
    -webkit-transform: translateY(10px);
     -moz-transform:    translateY(10px);
     -ms-transform:     translateY(10px);
@@ -322,7 +322,7 @@ center;
     transition-delay:         0.5s;
 }
 
-#definiton .it {
+#definiton.present  .it {
     -webkit-transform: translateY(10px);
     -moz-transform:    translateY(10px);
     -ms-transform:     translateY(10px);
