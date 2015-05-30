@@ -1,4 +1,3 @@
-
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -527,8 +526,4 @@ a:focus {
 }
 
 .impress-enabled          { pointer-events: none }
-<<<<<<< HEAD
 .impress-enabled #impress { pointer-events: auto }
-=======
-.impress-enabled #impress { pointer-events: auto }
->>>>>>> dacd4abe6ff21b6aaa60769bfe65a9ace12e7cb7
