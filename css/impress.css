@@ -287,7 +287,7 @@ ms-transition:     0.5s;
     transition:         0.5s;
 }
 
-#definiton.present .now_me {
+#definiton {
     font-size: 90px;
     -
 
@@ -300,7 +300,7 @@ translateY(-10px);
     transform:         translateY(-10px);
 }
 
-#definiton.present .unity {
+#definiton.enjoy {
     -webkit-transform: translateY(10px);
     -moz-
 
@@ -320,7 +320,7 @@ transition-delay:      0.25s;
     transition-delay:         0.25s;
 }
 
-#definiton.present .ios {
+#definiton .dream {
     -webkit-transform: translateY(10px);
     -
 
@@ -340,7 +340,7 @@ transition-delay:      0.5s;
     transition-delay:         0.5s;
 }
 
-#definiton.present .photo {
+#definiton .it {
     -webkit-transform: translateY(10px);
     -
 
@@ -431,141 +431,15 @@ delay:     0.5s;
     text-align: center;
 }
 
-#comein {
-    width: 1000px;
-    text-align: center;
-}
-
-#mywords {
-    width: 1000px;
-    text-align: center;
-}
-
-#grow {
-    
-
-text-align: center;
-}
-
-#knowme {
-    font-size: 45px;
-}
-
-#imagination {
-    width: 600px;
-}
-
-#imagination .imagination {
-    font-size: 78px;
-}
-
 #findme {
-  
-
   width: 900px;
-    padding-bottom: 120px;
-
-    }
-
-#prizeme p {
-    -webkit-transform-style: preserve-3d;
-    -moz-transform-style:    preserve-3d; 
-
-/* Y U need this Firefox?! */
-    -ms-transform-style:     preserve-3d;
-    -o-transform-style:      preserve-3d;
-    transform-style:         
-
-preserve-3d;
+  padding-bottom: 120px;
 }
 
-#prizeme span,
-#prizeme b {
-    display: inline-block;
-    -webkit-transform: translateZ(40px);
-    -moz-transform:    translateZ
-
-(40px);
-    -ms-transform:     translateZ(40px);
-    -o-transform:      translateZ(40px);
-     transform:        translateZ(40px);
-
-    -webkit-
-
-transition: 0.5s;
-    -moz-transition:    0.5s;
-    -ms-transition:     0.5s;
-    -o-transition:      0.5s;
-    transition:         0.5s;
+#thx {
+  width: 900px;
+  padding-bottom: 120px;
 }
-
-#prizeme .horse {
-    -webkit-transform: translateZ(-40px);
-    -moz-transform:    translateZ(-40px);
-    -ms-transform:     translateZ(-
-
-40px);
-    -o-transform:      translateZ(-40px);
-    transform:         translateZ(-40px);
-}
-
-#prizeme .moutain {
-    -webkit-transform: 
-
-translateZ(20px);
-    -moz-transform:    translateZ(20px);
-    -ms-transform:     translateZ(20px);
-    -o-transform:      translateZ(20px);
-    
-
-transform:         translateZ(20px);
-}
-
-#prizeme .hope {
-    -webkit-transform: translateZ(-40px);
-    -moz-transform:    translateZ(-40px);
-    
-
--ms-transform:     translateZ(-40px);
-    -o-transform:      translateZ(-40px);
-    transform:         translateZ(-40px);
-}
-
-#prizeme .youare {
-   
-
- -webkit-transform: translateZ(60px);
-    -moz-transform:    translateZ(60px);
-    -ms-transform:     translateZ(60px);
-    -o-transform:      
-
-translateZ(60px);
-    transform:         translateZ(60px);
-}
-
-#prizeme .my {
-    -webkit-transform: translateZ(-10px);
-    -moz-transform:    
-
-translateZ(-10px);
-    -ms-transform:     translateZ(-10px);
-    -o-transform:      translateZ(-10px);
-    transform:         translateZ(-
-
-10px);
-}
-
-#prizeme.present span,
-#prizeme.present b {
-    -webkit-transform: translateZ(0px);
-    -moz-transform:    translateZ(0px);
-    -ms-
-
-transform:     translateZ(0px);
-    -o-transform:      translateZ(0px);
-    transform:         translateZ(0px);
-}
-
 
 #subcribe .adv {
     font-size: 
