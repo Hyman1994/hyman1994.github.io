@@ -355,17 +355,15 @@ a:focus {
 
 #thx {
     width: 1000px;
-    text-align: center;
+   
 }
 
 #findme {
     width: 900px;
-    padding-bottom: 120px;
 }
 
 #back {
-    width: 700px;
-    padding-bottom: 400px;
+    width: 1000px;
 }
 
 #overview { display: none }
