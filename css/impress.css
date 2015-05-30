@@ -363,6 +363,7 @@ a:focus {
 }
 
 #back {
+    text-align: center;
     width: 1000px;
 }
 
