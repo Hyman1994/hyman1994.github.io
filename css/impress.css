@@ -277,86 +277,62 @@ center;
 #definiton { width: 600px }
 
 #definiton b {
-    display: inline-block;
+     display: inline-block;
     -webkit-transition: 0.5s;
     -moz-transition:    0.5s;
-    -
-
-ms-transition:     0.5s;
+    -ms-transition:     0.5s;
     -o-transition:      0.5s;
     transition:         0.5s;
 }
 
 #definiton {
     font-size: 90px;
-    -
-
-webkit-transform: translateY(-10px);
+    -webkit-transform: translateY(-10px);
     -moz-transform:    translateY(-10px);
     -ms-transform:     translateY(-10px);
-    -o-transform:      
-
-translateY(-10px);
+    -o-transform:      translateY(-10px);
     transform:         translateY(-10px);
 }
 
 #definiton.enjoy {
-    -webkit-transform: translateY(10px);
-    -moz-
-
-transform:    translateY(10px);
+   -webkit-transform: translateY(10px);
+    -moz-transform:    translateY(10px);
     -ms-transform:     translateY(10px);
     -o-transform:      translateY(10px);
-    transform:         
-
-translateY(10px);
+    transform:         translateY(10px);
 
     -webkit-transition-delay: 0.25s;
     -moz-transition-delay:    0.25s;
     -ms-transition-delay:     0.25s;
-    -o-
-
-transition-delay:      0.25s;
+    -o-transition-delay:      0.25s;
     transition-delay:         0.25s;
 }
 
 #definiton .dream {
-    -webkit-transform: translateY(10px);
-    -
-
-moz-transform:    translateY(10px);
+   -webkit-transform: translateY(10px);
+    -moz-transform:    translateY(10px);
     -ms-transform:     translateY(10px);
     -o-transform:      translateY(10px);
-    transform:         
-
-translateY(10px);
+    transform:         translateY(10px);
 
     -webkit-transition-delay: 0.5s;
     -moz-transition-delay:    0.5s;
     -ms-transition-delay:     0.5s;
-    -o-
-
-transition-delay:      0.5s;
+    -o-transition-delay:      0.5s;
     transition-delay:         0.5s;
 }
 
 #definiton .it {
     -webkit-transform: translateY(10px);
-    -
-
-moz-transform:    translateY(10px);
+    -moz-transform:    translateY(10px);
     -ms-transform:     translateY(10px);
     -o-transform:      translateY(10px);
-    transform:         
-
-translateY(10px);
+    transform:         translateY(10px);
 
     -webkit-transition-delay: 0.75s;
     -moz-transition-delay:    0.75s;
     -ms-transition-delay:     0.75s;
-    -o-
-
-transition-delay:      0.75s;
+    -o-transition-delay:      0.75s;
     transition-delay:         0.75s;
 }
 
@@ -421,7 +397,28 @@ delay:     0.5s;
     width: 650px;
 }
 
+#dif b {
+     display: inline-block;
+    -webkit-transition: 0.5s;
+    -moz-transition:    0.5s;
+    -ms-transition:     0.5s;
+    -o-transition:      0.5s;
+    transition:         0.5s;
+}
 
+#dif .word {
+    -webkit-transform: translateX(10px);
+    -moz-transform:    translateX(10px);
+    -ms-transform:     translateX(10px);
+    -o-transform:      translateX(10px);
+    transform:         translateX(10px);
+
+    -webkit-transition-delay: 0.75s;
+    -moz-transition-delay:    0.75s;
+    -ms-transition-delay:     0.75s;
+    -o-transition-delay:      0.75s;
+    transition-delay:         0.75s;
+}
 
 #definitonet 
 
