@@ -312,11 +312,11 @@ a:focus {
     -o-transform:      translateX(10px);
     transform:         translateX(10px);
 
-    -webkit-transition-delay: 1s;
-    -moz-transition-delay:    1s;
-    -ms-transition-delay:    1s;
-    -o-transition-delay:     1s;
-    transition-delay:         1s;
+    -webkit-transition-delay:  0.5s;
+    -moz-transition-delay:    0.5s;
+    -ms-transition-delay:    0.5s;
+    -o-transition-delay:      0.5s;
+    transition-delay:         0.5s;
 }
 
 #dif.present  .world{
@@ -326,11 +326,11 @@ a:focus {
     -o-transform:      translateX(10px);
     transform:         translateX(10px);
 
-    -webkit-transition-delay:  1.5s;
-    -moz-transition-delay:    1.5s;
-    -ms-transition-delay:   1.5s;
-    -o-transition-delay:     1.5s;
-    transition-delay:     1.5s;
+    -webkit-transition-delay:  1s;
+    -moz-transition-delay:   1s;
+    -ms-transition-delay:  1s;
+    -o-transition-delay:   1s;
+    transition-delay:    1s;
 }
 
 #dif.present .bit {
@@ -340,11 +340,11 @@ a:focus {
     -o-transform:      translateX(10px);
     transform:         translateX(10px);
 
-   -webkit-transition-delay: 2s;
-    -moz-transition-delay:    2s;
-    -ms-transition-delay:     2s;
-    -o-transition-delay:      2s;
-    transition-delay:       2s;
+ -webkit-transition-delay:  1.5s;
+    -moz-transition-delay:    1.5s;
+    -ms-transition-delay:   1.5s;
+    -o-transition-delay:     1.5s;
+    transition-delay:     1.5s;
 }
 
 
