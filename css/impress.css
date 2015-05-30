@@ -282,28 +282,19 @@ a:focus {
     font-size: 30px;
 }
 
-#whereiam .young {
+#hobbies .young {
     text-align: right;
     font-size: 30px;
 }
-/*
-#whereiam .kunming {
-    color: green;
-}
 
-#whereiam .tsinghua {
-    color: purple;
+#hobbies .footnote {
+    font-size: 32px;
 }
-*/
 
 #school {
     width: 600px;
 }
 
-
-#japan {
-    width: 650px;
-}
 
 #dif b {
     display: inline-block;
