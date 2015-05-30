@@ -288,11 +288,11 @@ a:focus {
 }
 
 #hobbies .footnote {
-    font-size: 32px;
+    font-size: 20px;
 }
 
 #school {
-    width: 600px;
+    width: 650px;
 }
 
 
@@ -305,46 +305,46 @@ a:focus {
     transition:         0.5s;
 }
 
-#dif.present .hope {
-    -webkit-transform: translateX(100px);
-    -moz-transform:    translateX(100px);
-    -ms-transform:     translateX(100px);
-    -o-transform:      translateX(100px);
-    transform:         translateX(100px);
+#dif.present .hope .world{
+    -webkit-transform: translateX(10px);
+    -moz-transform:    translateX(10px);
+    -ms-transform:     translateX(10px);
+    -o-transform:      translateX(10px);
+    transform:         translateX(10px);
 
-    -webkit-transition-delay: 0.5s;
-    -moz-transition-delay:    0.5s;
-    -ms-transition-delay:     0.5s;
-    -o-transition-delay:      0.5s;
-    transition-delay:         0.5s;
+    -webkit-transition-delay: 0.8s;
+    -moz-transition-delay:    0.8s;
+    -ms-transition-delay:     0.8s;
+    -o-transition-delay:      0.8s;
+    transition-delay:         0.8s;
 }
 
-#dif.present .world {
-    -webkit-transform: translateX(100px);
-    -moz-transform:    translateX(100px);
-    -ms-transform:     translateX(100px);
-    -o-transform:      translateX(100px);
-    transform:         translateX(100px);
+#dif.present  .world{
+    -webkit-transform: translateX(10px);
+    -moz-transform:    translateX(10px);
+    -ms-transform:     translateX(10px);
+    -o-transform:      translateX(10px);
+    transform:         translateX(10px);
 
-    -webkit-transition-delay: 0.5s;
-    -moz-transition-delay:    0.5s;
-    -ms-transition-delay:     0.5s;
-    -o-transition-delay:      0.5s;
-    transition-delay:         0.5s;
+    -webkit-transition-delay: 0.8s;
+    -moz-transition-delay:    0.8s;
+    -ms-transition-delay:     0.8s;
+    -o-transition-delay:      0.8s;
+    transition-delay:         0.8s;
 }
 
 #dif.present .bit {
-    -webkit-transform: translateX(100px);
-    -moz-transform:    translateX(100px);
-    -ms-transform:     translateX(100px);
-    -o-transform:      translateX(100px);
-    transform:         translateX(100px);
+   -webkit-transform: translateX(10px);
+    -moz-transform:    translateX(10px);
+    -ms-transform:     translateX(10px);
+    -o-transform:      translateX(10px);
+    transform:         translateX(10px);
 
-    -webkit-transition-delay: 0.5s;
-    -moz-transition-delay:    0.5s;
-    -ms-transition-delay:     0.5s;
-    -o-transition-delay:      0.5s;
-    transition-delay:         0.5s;
+    -webkit-transition-delay: 0.8s;
+    -moz-transition-delay:    0.8s;
+    -ms-transition-delay:     0.8s;
+    -o-transition-delay:      0.8s;
+    transition-delay:         0.8s;
 }
 
 
