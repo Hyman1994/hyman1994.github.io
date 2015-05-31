@@ -418,11 +418,11 @@ a:focus {
     -o-transform:      translateY(0px);
     transform:         translateY(0px);
 
-    -webkit-transition: opacity 1s 3s, -webkit-transform 0.5s 2.5s;
-    -moz-transition:    opacity 1s 3s,    -moz-transform 0.5s 2.5s;
-    -ms-transition:     opacity 1s 3s,     -ms-transform 0.5s 2.5s;
-    -o-transition:      opacity 1s 3s,      -o-transform 0.5s 2.5s;
-    transition:         opacity 1s 3s,         transform 0.5s 2.5s;
+    -webkit-transition: opacity 1s 3s, -webkit-transform 0.5s 0.5s;
+    -moz-transition:    opacity 1s 3s,    -moz-transform 0.5s 0.5s;
+    -ms-transition:     opacity 1s 3s,     -ms-transform 0.5s 0.5s;
+    -o-transition:      opacity 1s 3s,      -o-transform 0.5s 0.5s;
+    transition:         opacity 1s 3s,         transform 0.5s 0.5s;
 }
 
 .impress-enabled          { pointer-events: none }
